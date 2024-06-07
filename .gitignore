@@ -1,0 +1,53 @@
+.venv-cifar10/
+
+data/*
+
+src/uploads/*
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Visual Studio Code specific files
+.vscode/
+
+# IDE / editor specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.suo
+*.user
+*.pyc
+*.pyo
+*.bak
+*.vspscc
+*.vssscc
+.vscode/
+
+# Flask specific files
+instance/
+.pytest_cache/
+coverage/

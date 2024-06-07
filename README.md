@@ -77,7 +77,7 @@ This project is a web-based application that allows users to upload images of ob
     python app.py
     ```
 
-4. Open your web browser and navigate to \`http://127.0.0.1:5000/\` to use the image classifier.
+4. Open your web browser and navigate to `http://127.0.0.1:5000/` to use the image classifier.
 
 ## File Descriptions
 

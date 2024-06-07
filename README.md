@@ -16,23 +16,22 @@ This project is a web-based application that allows users to upload images of ob
 
 ## Project Structure
 ```
-├── app.py <br>
-├── data_loading.py <br>
-├── models.py <br>
-├── src <br>
-│   ├── data_loading.py <br>
-│   ├── training.py <br>
-│   ├── evaluation.py <br>
-│   ├── app.py <br>
-│   └── ... <br>
-├── templates <br>
-│   └── index.html <br>
-|   └── result.html <br>
-├── static <br>
-│   ├── style.css <br>
-│   └── script.js <br>
-├── requirements.txt <br>
-└── README.md <br>
+├── app.py 
+├── data_loading.py 
+├── models.py 
+├── src 
+│   ├── data_loading.py 
+│   ├── training.py 
+│   ├── evaluation.py 
+│   ├── app.py 
+├── templates 
+│   └── index.html 
+|   └── result.html 
+├── static 
+│   ├── style.css 
+│   └── script.js 
+├── requirements.txt 
+└── README.md 
 ```
 
 ## Setup Instructions
